@@ -27,6 +27,8 @@ Credits:
 
 Author:
 	Andrea Giammarchi, <http://www.3site.eu>
+Modify:
+	qianqians, theDarkforce@aliyun.com
 
 License:
 	>Copyright (C) 2007 Andrea Giammarchi - www.3site.eu
